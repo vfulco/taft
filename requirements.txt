@@ -1,3 +1,4 @@
 python-docx
 flask
 Flask-SSLify
+gunicorn
